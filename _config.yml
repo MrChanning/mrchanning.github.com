@@ -1,16 +1,5 @@
 markdown: rdiscount
-permalink: /:title/
-url: http://mrchanning.github.io/
-name: MrChanning
-author: MrChanning
-qq: 404738958
-email: qyn@w.cn
-duoshuo: mrchanning
-beian: 浙ICP备12026616号
-cnzz: 119959
-weibo: 1725012617
-github: mrchanning
 pygments: true
-safe: true
-paginate: 20
-about: "MrChanning's blog"
+permalink: /:year/:month/:day/:title.html
+name: "Mr_Channing"
+markdown: rdiscount

@@ -1,5 +1,5 @@
 ---
-title: 标签
+title: tags
 layout: page
 ---
 
@@ -21,6 +21,7 @@ layout: page
 {% endfor %}
 </ul>
 
+<script src="/media/js/jquery-1.7.1.min.js" type="text/javascript" charset="utf-8"></script> 
 <script src="/media/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
 <script language="javascript">
 $.fn.tagcloud.defaults = {
