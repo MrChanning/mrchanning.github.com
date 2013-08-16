@@ -17,3 +17,5 @@ Mail:
 Weibo: 
 
 [![新浪微博](http://service.t.sina.com.cn/widget/qmd/1725012617/90e9f3a2/1.png)](http://weibo.com/u/1725012617)
+
+<a title="QQ" class="icon-comments" href="tencent://message/?uin=404738958"></a><a title="Mail" class="icon-envelope" href="mailto:qyn428@163.com"></a>
