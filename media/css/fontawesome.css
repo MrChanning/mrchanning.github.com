@@ -274,3 +274,4 @@ ul.icons li [class*=" icon-"] {
 .icon-rss:before		{ content: "\f024"; }
 .icon-link:before		{ content: "\f025"; }
 .icon-list-ul:before		{ content: "\f026"; }
+.icon-calendar:before		{ content: "\f073"; }
