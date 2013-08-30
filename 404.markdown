@@ -5,4 +5,6 @@ layout: page
 
 Page not found...
 
+<iframe scrolling='no' frameborder='0' src='http://yibo.iyiyun.com/js/yibo404/key/8058' width='640' height='462' style='display:block;'></iframe>
+
 You can go back to [Home page](/index.html)
